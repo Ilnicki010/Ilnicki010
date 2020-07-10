@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a front-end dveloper based in Gdynia, PL. I love shipping side projects and learning new technologies.
+
 <!--
 **Ilnicki010/Ilnicki010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 😄 Pronouns: he/his/him
+- 🔭 I’m currently working on [JustContribute](https://justcontribute.com) to help ppl get into open-source projects
+- 🌱 Learning JS, React, webperf and a11y
+- ✍️ I write some stuff about webdev on [DEV](https://dev.to/dominikilnicki)
+- 📫 You can reach me out on Twitter - [@dominikilnicki](https://twitter.com/dominikilnicki) or email - dominik.ilnicki@gmail.com
