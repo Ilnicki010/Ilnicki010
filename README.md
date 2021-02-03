@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a front-end dveloper based in Gdynia, PL. I love shipping side projects and learning new technologies.
+I'm a front-end developer based in Gdynia, PL. I love shipping side projects and learning new technologies.
 
 <!--
 **Ilnicki010/Ilnicki010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
